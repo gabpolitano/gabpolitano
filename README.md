@@ -2,7 +2,6 @@
 
 
 - 🌱 Estudando programação
-- 😄 Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/gabpolitano">
